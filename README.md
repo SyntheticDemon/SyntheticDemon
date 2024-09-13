@@ -5,6 +5,7 @@ I'm an undergraduate student passionate about blockchain, software engineering, 
 ## 📚 About Me
 
 - 🎓 Pursuing a Bachelor's degree in Computer Engineering at University of Tehran.
+- 🔭 Research Experience in blockchian systems 
 - 🔭 Researching AI-driven solutions in healthcare.
 - 💼 3 years of experience as a Software Engineer.
 

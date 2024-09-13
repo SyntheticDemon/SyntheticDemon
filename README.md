@@ -11,12 +11,12 @@ I'm an undergraduate student passionate about blockchain, software engineering, 
 
 ## 🛠️ Languages and Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 My GitHub Stats
@@ -24,10 +24,6 @@ I'm an undergraduate student passionate about blockchain, software engineering, 
 ![Synthetic Demon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntheticDemon&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntheticDemon&layout=compact&theme=radical&hide=jupyter%20notebook)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyntheticDemon)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Featured Projects
 ### [Refined Proof of Activity & Crystalline](https://github.com/Crystalline-Coin/crystalline)
@@ -37,6 +33,10 @@ I'm an undergraduate student passionate about blockchain, software engineering, 
 
 - **Technologies:** Python,Docker,Blockchain, Distributed Systems
 - **Description:** Helped Develop a novel consensus algorithm to improve transaction speed and security in blockchain networks while optimizing and improving on Proof of Work and Proof of Stake Systems. 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SyntheticDemon)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ### [AI for OSCC Cancer Prognosis](https://github.com/SyntheticDemon/ai-oscc-prognosis)
 *AI research aimed at improving prognosis outcomes for OSCC cancer patients.*

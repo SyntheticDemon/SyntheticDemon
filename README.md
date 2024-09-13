@@ -31,11 +31,11 @@ I'm an undergraduate student passionate about blockchain, software engineering, 
 
 ## 🌟 Featured Projects
 ### [Refined Proof of Activity & Crystalline](https://github.com/Crystalline-Coin/crystalline)
-*Research paper on blockchain networks enhancing consensus mechanisms.*
-*Functioning blockchain based on Redefined Proof of Activity*
+- *Research paper on blockchain networks enhancing consensus mechanisms.*
+- *Functioning blockchain based on Redefined Proof of Activity*
 
 - **Technologies:** Python,Docker,Blockchain, Distributed Systems
-- **Description:** Helped Develop a novel consensus algorithm to improve transaction speed and security in blockchain networks while optimizing and improving on Proof of Work and Proof of Stake Systems. -->
+- **Description:** Helped Develop a novel consensus algorithm to improve transaction speed and security in blockchain networks while optimizing and improving on Proof of Work and Proof of Stake Systems. 
 
 <!-- ### [AI for OSCC Cancer Prognosis](https://github.com/SyntheticDemon/ai-oscc-prognosis)
 *AI research aimed at improving prognosis outcomes for OSCC cancer patients.*

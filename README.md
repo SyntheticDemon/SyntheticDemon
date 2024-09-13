@@ -42,7 +42,7 @@ I'm an undergraduate student passionate about blockchain, software engineering, 
 *AI research aimed at improving prognosis outcomes for OSCC cancer patients.*
 
 - **Technologies:** Python, TensorFlow, Machine Learning
-- **Description:** Created predictive models to analyze patient data and enhance prognostic accuracy. --> -->
+- **Description:** Created predictive models to analyze patient data and enhance prognostic accuracy. -->
 
 <!-- ### [Big Data Processing Pipeline](https://github.com/SyntheticDemon/big-data-pipeline)
 *Handled big data and time series event processing for large-scale applications.*

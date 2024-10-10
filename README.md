@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pouriya Tajmehrabi!
 
-I'm an undergraduate student passionate about blockchain, distributed systems, software engineering, and AI research, currently focusing on improving prognosis outcomes for OSCC cancer patients.
+I'm an undergraduate student passionate about blockchain, distributed systems, software engineering and AI, currently focusing on improving prognosis outcomes for OSCC cancer patients.
 
 ## 📚 About Me
 

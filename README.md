@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pouriya Tajmehrabi!
 
-I'm an undergraduate student passionate about blockchain, distributed systems, software engineering
+I'm an undergraduate student passionate about Blockchain Technology, Distributed Systems, Cybersecurity, Privacy and Applied Cryptography
 
-## 📚 About Me
+ 📚 About Me
 
 -  Pursuing a Bachelor's degree in Computer Engineering at University of Tehran.
 -  Research Experience in Blockchain systems 

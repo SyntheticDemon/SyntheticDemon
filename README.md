@@ -11,8 +11,6 @@ I'm an undergraduate student passionate about Blockchain Technology, Distributed
 
 ## 🚀 My GitHub Stats
 
-![Synthetic Demon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntheticDemon&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntheticDemon&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ## 🛠️ Languages and Tools

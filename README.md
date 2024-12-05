@@ -45,7 +45,3 @@ I'm an undergraduate student passionate about Blockchain Technology, Distributed
 <!-- - [Personal Website](https://yourwebsite.com/) -->
 - [Email](pouriyatajmehrabi1381@gmail.com)
 
-## 📈 GitHub Streak
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SyntheticDemon&theme=radical)
-

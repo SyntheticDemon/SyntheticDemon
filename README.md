@@ -9,6 +9,12 @@ I'm an undergraduate student passionate about Blockchain Technology, Distributed
 -  Researching AI-driven solutions in healthcare
 -  3 years of experience as a Software Engineer in Fintech (Clojure, Java)
 
+## 🚀 My GitHub Stats
+
+![Synthetic Demon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntheticDemon&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntheticDemon&layout=compact&theme=radical&hide=jupyter%20notebook)
+
 ## 🛠️ Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -22,20 +28,14 @@ I'm an undergraduate student passionate about Blockchain Technology, Distributed
 
 ## 🌟 Featured Projects
 ### [Redefined Proof of Activity & Crystalline](https://github.com/Crystalline-Coin/crystalline)
-*Research paper on blockchain networks enhancing consensus mechanisms*
+*A new Consensus Protocol adapting the best features from Proof of Stake and Proof of Work, while effectively promoting user activtiy*
 
 *Functioning blockchain based on Redefined Proof of Activity*
 
-- **Technologies:** Python,Docker,Blockchain, Distributed Systems
-- **Description:** Helped Develop a novel consensus algorithm to improve transaction speed and security in blockchain networks while optimizing and improving on Proof of Work and Proof of Stake Systems
+- **Technologies:** Python, Docker, Flask
+- **Description:**  Novel Consensus Algorithm used to improve transaction speed and security in blockchain networks while optimizing and improving on Proof of Work and Proof of Stake Systems - A Blockchain coded from scratch using Python  
 
   
-## 🚀 My GitHub Stats
-
-![Synthetic Demon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntheticDemon&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntheticDemon&layout=compact&theme=radical&hide=jupyter%20notebook)
-
 
 ## 🏆 GitHub Trophies
 

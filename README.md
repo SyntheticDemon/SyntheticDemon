@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pouriya Tajmehrabi!
 
-I'm an undergraduate student passionate about Blockchain Technology, Distributed Systems, Cybersecurity, Privacy and Applied Cryptography
+I'm an undergraduate student passionate about Distributed Systems, Cybersecurity, Privacy and Applied Cryptography. I naturally like the intersection of these fields which is Blockchain
 
  📚 About Me
 

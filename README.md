@@ -21,7 +21,7 @@ I'm an undergraduate student passionate about Blockchain Technology, Distributed
 
 
 ## 🌟 Featured Projects
-### [Refined Proof of Activity & Crystalline](https://github.com/Crystalline-Coin/crystalline)
+### [Redefined Proof of Activity & Crystalline](https://github.com/Crystalline-Coin/crystalline)
 *Research paper on blockchain networks enhancing consensus mechanisms*
 
 *Functioning blockchain based on Redefined Proof of Activity*
